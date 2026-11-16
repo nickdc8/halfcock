@@ -6,7 +6,8 @@ wah circuit with a knob where the treadle would be, for the fixed midrange
 app.
 
 It is named "Halfcock" because WahFull and Fulltone are trademarks. It is a
-sibling of [Sighs](../univibe), and shares that project's JUCE checkout.
+sibling of [Sighs](https://github.com/nickdc8/sighs), and by default builds against that
+project's JUCE checkout.
 
 ## Install locations
 
