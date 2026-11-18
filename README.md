@@ -9,6 +9,10 @@ It is named "Halfcock" because WahFull and Fulltone are trademarks. It is a
 sibling of [Sighs](https://github.com/nickdc8/sighs), and by default builds against that
 project's JUCE checkout.
 
+## Download
+
+Prebuilt for macOS 12 or later, on Apple silicon and Intel. Get the zip from the [latest release](https://github.com/nickdc8/halfcock/releases/latest). It contains the VST3, the Audio Unit and the standalone app, and the release notes have the install steps.
+
 ## Install locations
 
 Building installs the plugins automatically:
